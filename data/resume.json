@@ -1,0 +1,253 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Omar Shata",
+    "label": "Web Developer",
+    "image": "https://i.imgur.com/5hdVxDz.jpeg",
+    "email": "omaratef03@gmail.com",
+    "phone": "+2001142597665",
+    "url": "https://omarshata.com",
+    "summary": "I am a Systems and Biomedical Engineering student at Cairo University with a passion for technology and software development. With experience in MERN Stack web development, I focus on creating innovative solutions that integrate engineering and healthcare. My strengths include problem-solving, analytical thinking, and collaboration.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Cairo",
+      "countryCode": "EGY",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "OmarAtef0",
+        "url": "https://github.com/OmarAtef0"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Omar Shata",
+        "url": "https://www.linkedin.com/in/omaratefhussain/"
+      },
+      {
+        "network": "Codeforces",
+        "username": "3asfoor",
+        "url": "https://codeforces.com/profile/3asfoor"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "ezzMedical ",
+      "location": "Cairo, EG",
+      "description": "Medical Equipment Manufacturing Company",
+      "position": "Software Engineer Intern",
+      "url": "http://ezzmedical.com/",
+      "startDate": "2024-08-01",
+      "endDate": "2024-09-01",
+
+      "highlights": [
+        "Contributed to the development of ERA (Engineering Requirements Application), an internal tool used across all company departments to enhance workflow and ensure traceability and compliance with international standards.",
+        "Collaborated to the testing process, identifying and resolving bugs, ensuring high-quality code and reliable software performance."
+      ]
+    },
+    {
+      "name": "Huawei ",
+      "location": "Cairo, EG",
+      "description": "Information and Communications Technology ICT, Enterprise Solutions, Consumer Devices, and Carrier Network",
+      "position": "Software Engineer Intern",
+      "url": "https://e.huawei.com/en/",
+      "startDate": "2023-08-01",
+      "endDate": "2023-11-01",
+
+      "highlights": [
+        "Developed and optimized network automation scripts using Python, improving efficiency and reducing configuration time.",
+        "Contributed to the design and implementation of network architecture for several projects, ensuring system scalability and reliability"
+      ]
+    },
+    {
+      "name": "Scale AI ",
+      "location": "Remote",
+      "description": "",
+      "position": "Expert Coder",
+      "url": "https://scale.com/",
+      "startDate": "2023-06-01",
+      "endDate": "2023-12-01",
+
+      "highlights": [
+        "Trained Genesis LLM, Dolphin LLM to answer competitive coding questions in various topics, using C++ and Python providing solutions with tutorials and problem summaries."
+      ]
+    },
+    {
+      "name": "Astute Imaging",
+      "location": "Remote",
+      "description": "",
+      "position": "Software Engineer",
+      "url": "https://astuteimaging.com/",
+      "startDate": "2024-09-01",
+      "endDate": "2024-12-01",
+
+      "highlights": [
+        "Contributed to the development of several medical software solutions using React.js, Next.js, Node.js enhancing user experience and functionality."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "name": "ACM FE-CU",
+      "location": "Cairo",
+      "description": "",
+      "position": "Competitive Programming Trainee",
+      "url": "https://github.com/ACM-FE-CU-Community",
+      "startDate": "",
+      "endDate": "",
+
+      "highlights": [
+        "Gained in-depth knowledge of computer science algorithms, including data structures, graphs, number theory, dynamic programming, bitmasks, and backtracking, achieved PUPIL rating on codeforces."
+      ]
+    },
+    {
+      "name": "Energia Powered FE-CU",
+      "location": "Cairo",
+
+      "description": "",
+      "position": "Graphic Designer ",
+      "url": ""
+    },
+    {
+      "name": "Pascal Academy FE-CU",
+      "location": "Cairo",
+      "description": "",
+      "position": "Graphic Designer ",
+      "url": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cairo University",
+      "url": "https://cu.edu.eg/Home",
+      "area": "Systems and Biomedical Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2020-09-01",
+      "endDate": "2025-06-01",
+      "score": "GPA 3.5",
+      "courses": [
+        "Data structures and Algorithms",
+        "Object Oriented Programming",
+        "Software Engineering",
+        "Digital Signals Processing",
+        "Database Management Systems",
+        "Deep Learning",
+        "Machine Learning",
+        "Hospital Information Systems"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Huawei HCIA - Datacom ",
+      "awarder": "",
+      "summary": "Certification which validates foundational knowledge and skills in data communication technologies, including network fundamentals, LAN technologies, and routing and switching essentials."
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": " Programming Languages",
+      "keywords": ["Python", "C++", "JavaScript", "TypeScript"]
+    },
+    {
+      "name": "Web Development",
+      "keywords": ["React.js", "Next.js", "Node.js", "Express.js", "MongoDB"]
+    },
+    {
+      "name": "UI/UX Design",
+      "keywords": ["Figma", "Photoshop", "Illustrator"]
+    },
+
+    {
+      "name": "Others",
+      "keywords": ["Qt", "Git/Github", "Azure", "AWS", "GCP", "Docker"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Arabic",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Proficient"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "TherAInostics – AI-Web Platform for Lutetium Treatment Efficacy (Graduation Project)",
+      "description": "",
+      "highlights": [
+        "Contributed to the development of an AI Web platform using React.js and Node.js that leverages AI to assess and predict the efficacy of Lutetium-PSMA treatment for prostate cancer, implementing longitudinal tracking and all viewer tools needed"
+      ],
+      "keywords": [
+        "Cornerstone.js",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Deep Learning",
+        "Machine Learning",
+        "Node.js"
+      ],
+      "startDate": "",
+      "endDate": "",
+      "url": "",
+      "roles": [""],
+      "entity": "",
+      "type": "Web Application"
+    },
+    {
+      "name": "HaimaLab Website",
+      "description": "",
+      "highlights": [
+        "Contributed to the development of medical hematology lab information system, that allows staff to access the lab's information while allowing patients to access their personal information. It's powered by a smart assistant chatbot to help doctors and patients with diagnoses."
+      ],
+      "keywords": ["React", "TypeScript", "Tailwind CSS", "Supabase"],
+      "startDate": "",
+      "endDate": "",
+      "url": "https://github.com/OmarAtef0/HaimaLab",
+      "roles": [""],
+      "entity": "",
+      "type": "Web Application"
+    },
+    {
+      "name": "Elearn - Learning Management System",
+      "description": "",
+      "highlights": [
+        "Contributed to the development of a learning management system using C++ and Qt, enabling admin users to efficiently track and manage educational systems, also designed the UI in Figma to ensure a seamless user experience."
+      ],
+      "keywords": ["Qt", "C++", "OOP", "Figma"],
+      "startDate": "",
+      "endDate": "",
+      "url": "https://github.com/OmarAtef0/Elearn",
+      "roles": [""],
+      "entity": "",
+      "type": "Desktop Application"
+    },
+    {
+      "name": "Digital Signal Visualizer",
+      "description": "",
+      "highlights": [
+        "Contributed to the development of a Python-Qt-based multi-port, multi-channel signal viewer for medical signals (ECG, EMG, EEG), featuring real-time visualization, signal manipulation, and PDF report generation."
+      ],
+      "keywords": ["Qt", "Python", "OOP"],
+      "startDate": "",
+      "endDate": "",
+      "url": "https://github.com/OmarAtef0/Digital-Signal-Visualizer",
+      "roles": [""],
+      "entity": "",
+      "type": "Desktop Application"
+    }
+  ]
+}
